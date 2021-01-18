@@ -33,7 +33,7 @@ Intalacion de paqutes
 $ npm install
 ```
 
-## Correr la aplicacio
+## Correr la aplicacion
 
 ```bash
 # desarrollo
@@ -57,14 +57,14 @@ $ npm run test:e2e
 
 ```
 
-## url de api local de servicio
+## Url de api local de servicio
 
 http://localhost:3000/api/v1/ciudad
 
-## archivo .env
+## Archivo .env
 Se define el  archivo .env en la carpeta config para tener la url de conexiones y apis que ocupa el sistema 
 
-## respuesta ejemplo exitosa del servicio 
+## Respuesta ejemplo exitosa del servicio 
 
 ```bash
 {
